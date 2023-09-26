@@ -1,0 +1,85 @@
+button{
+    background-color: black;
+    color: white;
+}
+form{  
+
+    /*Altera posição. */
+
+   display:table;
+
+
+
+  }
+
+  
+
+  p{
+
+   /*Posição das caixas de textos. */
+
+    display: table-row;
+
+  
+
+
+
+  }
+
+  
+
+  label,
+
+  input {
+
+
+
+   /*Altera campo de texto e fonte.*/
+
+    display: table-cell;
+
+    font:
+
+      1rem 'Fira Sans',
+
+      sans-serif;
+
+    margin-bottom: 10px;
+
+    margin: 0.4rem 0;
+
+    appearance: none;
+
+  }
+
+  
+
+button{
+
+   /*Estiliza o botão Enviar.*/
+
+line-height: 2.5;
+
+padding: 0 20px;
+
+font-size: 1rem;
+
+text-align: center;
+
+color: #fff;
+
+text-shadow: 1px 1px 1px #000;
+
+border-radius: 10px;
+
+background-color: rgb(162, 0, 255);
+
+background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+
+box-shadow:
+
+ inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+
+ inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+
+}
