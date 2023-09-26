@@ -133,9 +133,9 @@ A tag <button> em HTML é usada para definir o botão clicável. A tag <button> 
 
 ## Desenvolvedores:
 
-<img loading="lazy" src="https://github.com/ESChrystian/site-de-produtos/assets/140809945/6a4fa894-a625-424a-80b0-b01d0a8c0bb5" width=130><br>
+<img loading="lazy" src="Nayra.png" width=130><br>
 
-<a href="https://github.com/ESChrystian">Chrystian Almeida Silva</a>
+<a href="https://github.com/nayravsantos/">Nayra Vitória dos Santos</a>
 
  
 
