@@ -1,85 +1,113 @@
 button{
-    background-color: black;
-    color: white;
+
+  background-color: black;
+
+  color: white;
+
+  border-radius: 0.7rem;
+
+  padding: 5px;
+
+  top: 10px;
+
+  text-align: center;
+
 }
-form{  
 
-    /*Altera posição. */
+label{
 
-   display:table;
+  padding: 4px;
 
+  border-radius: 0.5rem;
 
+  left: 480px;
+}
 
-  }
+span{
 
-  
+  font-style:normal;
 
-  p{
+  top: 1px;
 
-   /*Posição das caixas de textos. */
+  left: 505px;
+}
 
-    display: table-row;
+#assunto, #email{
 
-  
+  width: 200px;
 
+  border: 1px solid black;
 
+  padding: 4px;
 
-  }
+  border-radius: 0.5rem;  
+}
 
-  
+textarea{
 
-  label,
+  border: 1px solid black;
 
-  input {
+  padding: 4px;
 
+  border-radius: 0.5rem;  
 
+  top: 15px;
 
-   /*Altera campo de texto e fonte.*/
+  width: 200px;
 
-    display: table-cell;
+  height: 100px;
+}
 
-    font:
+form{
 
-      1rem 'Fira Sans',
+  border: 2px solid rgb(0, 0, 0);
 
-      sans-serif;
+  top: 50px;
 
-    margin-bottom: 10px;
+  position: relative;
 
-    margin: 0.4rem 0;
+  text-align:center;
+}
 
-    appearance: none;
+#centro{
 
-  }
+  position: relative;
 
-  
+  text-align: center;
 
-button{
+  width: 40%;
 
-   /*Estiliza o botão Enviar.*/
+  width: 100%;
 
-line-height: 2.5;
+  align-items: center;
 
-padding: 0 20px;
+  display: flex;
 
-font-size: 1rem;
+  flex-direction: row;
 
-text-align: center;
+  flex-wrap: wrap;
 
-color: #fff;
+  justify-content: center;
 
-text-shadow: 1px 1px 1px #000;
+  background-color: #fdb8b8;
 
-border-radius: 10px;
+  padding:120px 0;
+}
 
-background-color: rgb(162, 0, 255);
+h1{
 
-background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+  position: relative;
 
-box-shadow:
+  top: -20px;
 
- inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+  left: 10px;
 
- inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  font-size:40px;
+
+  font-weight:bold;
+
+  letter-spacing:20px;
+
+  color:#f5506e;
 
 }

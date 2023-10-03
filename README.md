@@ -21,9 +21,8 @@
 
 ### Veja como é a interface gráfica do software:
 
- 
 
-![Imagem do site](<Captura%20de%20tela%202023-09-26%20090319.png>)
+<img src="Captura%20de%20tela%202023-10-03%20090300.png" width="600">
 
  
 
